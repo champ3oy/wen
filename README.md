@@ -2,6 +2,10 @@
 
 An AI-powered command-line assistant that helps you execute shell commands and multi-step tasks.
 
+
+![Wen CLI in action](https://raw.githubusercontent.com/champ3oy/wen/main/assets/wen.gif)
+
+
 ## Features
 
 - AI-powered command generation
