@@ -1,17 +1,15 @@
-# Wen CLI
+# Wen
 
-An AI-powered command-line assistant that helps you execute shell commands and multi-step tasks.
-
+Wen is an agentic cli assistant that helps you execute shell commands and multi-step tasks using natural language.
 
 ![Wen CLI in action](https://github.com/champ3oy/wen/blob/main/assets/wen.gif)
-
 
 ## Features
 
 - AI-powered command generation
 - Multi-step task execution
 - Command safety analysis
-- Cross-platform color support
+- Cross-platform support
 - Conversation history with context
 
 ## Installation
